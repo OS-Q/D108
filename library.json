@@ -1,16 +1,16 @@
 {
-  "name":"ESP WEB",
-  "description":"ESP WEB SRC",
+  "name":"web",
+  "description":"ESP WEB LIBS",
   "keywords":"async,udp,tcp,web,server,client,multicast,broadcast",
-  "authors":
-  {
-    "name": "qitas",
-    "maintainer": true
+  "version": "1.0.0",
+  "authors": {
+    "name":  "qitas",
+    "email": "qitas@qitas.cn",
+    "url": "http://tang.qitas.cn"
   },
-  "repository":
-  {
+  "repository": {
     "type": "git",
-    "url": "https://github.com/OS-Q/D96.git"
+    "url": "https://github.com/OS-Q/D98.git"
   },
   "frameworks": "arduino",
   "platforms":"espressif"
