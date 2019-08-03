@@ -1,0 +1,17 @@
+{
+  "name":"ESP WEB",
+  "description":"ESP WEB SRC",
+  "keywords":"async,udp,tcp,web,server,client,multicast,broadcast",
+  "authors":
+  {
+    "name": "qitas",
+    "maintainer": true
+  },
+  "repository":
+  {
+    "type": "git",
+    "url": "https://github.com/OS-Q/D96.git"
+  },
+  "frameworks": "arduino",
+  "platforms":"espressif"
+}
