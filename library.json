@@ -1,17 +1,16 @@
 {
-  "name":"WEB",
-  "description":"ESP WEB",
-  "keywords":"udp,tcp,web,server,client,broadcast",
-  "version": "1.1.0",
+  "name": "D108",
+  "keywords": "WEB",
+  "description": "WEB",
+  "version": "0.6.2",
   "authors": {
     "name":  "qitas",
-    "email": "qitas@qitas.cn",
-    "url": "http://tang.qitas.cn"
+    "email": "qitas@qitas.cn"
   },
   "repository": {
     "type": "git",
     "url": "https://github.com/OS-Q/D108.git"
   },
   "frameworks": "arduino",
-  "platforms":"espressif,esp8266,esp32"
+  "platforms": "espressif,esp8266,esp32"
 }
